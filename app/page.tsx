@@ -1,0 +1,1 @@
+export default function Home(){return <main className='min-h-screen flex flex-col items-center justify-center bg-[#09090B] text-white'><h1 className='text-6xl font-bold'>GenLayer AI Escrow</h1><p className='mt-4 text-gray-400'>Secure freelance agreements powered by Intelligent Contracts.</p></main>}
